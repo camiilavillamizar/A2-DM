@@ -1,0 +1,17 @@
+state_id,country_id,name
+1,CA,Ontario
+2,CA,Quebec
+3,CA,British Columbia
+4,CA,Alberta
+5,US,California
+6,US,Texas
+7,US,Florida
+8,US,New York
+9,UK,England
+10,UK,Scotland
+11,UK,Wales
+12,UK,Northern Ireland
+13,AU,New South Wales
+14,AU,Victoria
+15,AU,Queensland
+16,AU,Western Australia

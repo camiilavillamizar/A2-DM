@@ -1,0 +1,25 @@
+city_id,name,state_id
+1,Toronto,1
+2,Vancouver,4
+3,Montreal,2
+4,Ottawa,3
+5,Calgary,3
+6,London,3
+7,New York,6
+8,Los Angeles,5
+9,Chicago,7
+10,Miami,5
+11,Houston,8
+12,Boston,5
+13,London,12
+14,Manchester,10
+15,Birmingham,9
+16,Liverpool,12
+17,Edinburgh,9
+18,Glasgow,11
+19,Sydney,16
+20,Melbourne,14
+21,Brisbane,15
+22,Perth,13
+23,Adelaide,13
+24,Canberra,16

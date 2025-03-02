@@ -1,0 +1,101 @@
+model_id,type,maker,model_name,model_year
+06841cdd,Sedan,BMW,3 Series,2021
+b17462b9,SUV,Mercedes-Benz,E-Class,2002
+28949d55,Minivan,Ford,Explorer,2021
+fb06795f,Minivan,BMW,X7,2009
+d8ad0c99,Hatchback,Jeep,Gladiator,2013
+946b2182,Hatchback,Chevrolet,Malibu,2018
+fe06c99e,Sedan,Subaru,Ascent,2014
+1e7a205b,Coupe,Lexus,NX,2007
+c6b4552e,Sedan,BMW,X3,2008
+0a1b3ce8,Truck,Kia,Sportage,2008
+7a75bbd4,Sedan,Mazda,CX-5,2015
+7e93d771,Truck,Kia,Forte,2004
+89dbc745,SUV,Hyundai,Sonata,2007
+00ca5791,Hatchback,Jeep,Renegade,2006
+46f6dcba,Coupe,Chevrolet,Colorado,2008
+8dab7d46,Convertible,Tesla,Cybertruck,2020
+a2f5d6f3,Coupe,Mazda,CX-9,2006
+0b590b40,Hatchback,Subaru,Outback,2022
+aa289d4d,Truck,Subaru,Ascent,2013
+2fd9cfad,Minivan,Nissan,Pathfinder,2013
+c5b1ee66,Coupe,Mercedes-Benz,E-Class,2022
+4faa1cb8,Sedan,BMW,5 Series,2002
+9b363f37,Sedan,Mazda,Mazda6,2014
+66a95149,Convertible,Subaru,Impreza,2009
+6012190a,Minivan,Honda,Civic,2014
+623a6e41,Minivan,Ford,F-150,2015
+f2edccc1,Truck,Toyota,Corolla,2020
+2f896e74,Minivan,Mercedes-Benz,GLC,2014
+f46722ec,Convertible,Tesla,Model 3,2005
+c76ee294,Minivan,Ford,Edge,2018
+daf8f67f,Sedan,Honda,Pilot,2001
+50832f79,Minivan,Tesla,Model S,2015
+46d6d132,Truck,Subaru,Crosstrek,2004
+106faaf1,Sedan,Volkswagen,Passat,2002
+fd8ae560,Sedan,Mercedes-Benz,C-Class,2018
+1206dacf,Coupe,Ram,1500,2007
+8d443e81,Minivan,Mazda,Mazda3,2016
+52145000,SUV,Kia,Soul,2019
+d09335cf,Truck,Lexus,RX,2000
+3e9616c5,Minivan,Kia,Sportage,2019
+70498cef,Coupe,Kia,Forte,2024
+a28398cf,Hatchback,Subaru,Crosstrek,2021
+a6a6c002,SUV,Volkswagen,Atlas,2020
+7f676636,Hatchback,Mercedes-Benz,GLC,2004
+77c160d2,Coupe,Lexus,GX,2008
+626a59ee,Sedan,Kia,Soul,2005
+6ef7b9fe,Coupe,Toyota,RAV4,2007
+52a8e154,Convertible,Chevrolet,Traverse,2006
+63a2d0f7,Truck,Hyundai,Santa Fe,2022
+71b1c15e,Minivan,BMW,3 Series,2005
+de824bee,Sedan,Chevrolet,Equinox,2003
+f1eb0eff,Truck,Hyundai,Elantra,2019
+e5474927,Convertible,Hyundai,Sonata,2001
+0649a06d,SUV,BMW,3 Series,2004
+40164af1,Truck,Volkswagen,Jetta,2001
+6a4839db,Convertible,Honda,Pilot,2021
+26f33940,Minivan,BMW,X3,2006
+89a65f23,Sedan,Tesla,Model X,2019
+8a237f0f,Convertible,Lexus,GX,2003
+7a82d7b1,Truck,Lexus,IS,2019
+da342036,Minivan,Honda,Accord,2021
+234e54e8,Coupe,Hyundai,Tucson,2012
+636b5fd4,Coupe,Lexus,NX,2024
+167b9df7,Sedan,Subaru,Outback,2016
+d1333117,Minivan,Ram,3500,2020
+43f1717a,Coupe,Nissan,Pathfinder,2012
+236bd8be,Truck,BMW,X7,2014
+a6467af5,Truck,Mercedes-Benz,GLC,2011
+b7f42443,Minivan,Hyundai,Palisade,2019
+dd6e9159,Truck,Tesla,Model S,2023
+77aa0158,Convertible,Volkswagen,Jetta,2015
+1fd24d45,Hatchback,Ram,ProMaster,2001
+1dfe6f2c,SUV,Mazda,Mazda3,2007
+af47455d,Minivan,Tesla,Model S,2023
+5c4fafbc,Minivan,Lexus,GX,2009
+fb8433ad,Sedan,Honda,Ridgeline,2020
+ba4596d0,SUV,BMW,X5,2017
+d8bcbedb,Minivan,Mazda,MX-5,2001
+ff638e73,Truck,Mercedes-Benz,C-Class,2007
+18608bf9,Minivan,Mazda,MX-5,2009
+bcb59c2b,Coupe,BMW,5 Series,2018
+40d0385e,Sedan,Mazda,Mazda6,2019
+e018a90a,Convertible,Kia,Sorento,2006
+940e3679,Truck,Kia,Sorento,2010
+eeb9039c,Truck,Kia,Soul,2008
+7a20bfb1,Coupe,Jeep,Compass,2022
+a7bb3788,Hatchback,Jeep,Gladiator,2006
+73ac6582,SUV,Mercedes-Benz,GLC,2014
+745a2866,Hatchback,Volkswagen,Tiguan,2023
+7b764014,SUV,Chevrolet,Equinox,2020
+767fb007,Convertible,Toyota,Highlander,2022
+c2b19a8e,Coupe,Subaru,Impreza,2001
+b984e900,Truck,Mercedes-Benz,GLE,2021
+f7deb786,Minivan,Chevrolet,Traverse,2016
+c06124b2,Sedan,Mercedes-Benz,C-Class,2019
+c13d1baa,SUV,Ford,Edge,2012
+c8de2c89,SUV,Honda,Ridgeline,2024
+2d5e447c,Sedan,Mercedes-Benz,E-Class,2013
+b8fc8275,Coupe,Nissan,Sentra,2000
+1f7ea0de,Convertible,BMW,X5,2004

@@ -1,0 +1,101 @@
+address_id,country,city,state,street,postal_code,latitude,longitude,description
+23e7f117,Canada,Brantford,Ontario,73 William St,N3T3K7,42.9849,-79.8711,Shopping Plaza
+eaad8d3d,Canada,Hamilton,Ontario,73 William St,L4W 5N2,42.9849,-79.3832,Business District
+80b37358,Canada,Hamilton,Ontario,789 King St,M5G 1X6,42.9849,-79.8711,Shopping Plaza
+69ec0c4b,UK,London,London,789 King St,P7B 6G2,43.6532,-79.3832,Near Public Park
+084f335c,Canada,Hamilton,Ontario,456 Queen St,N6A 3K7,45.4215,-79.3832,Shopping Plaza
+bbba5c28,Canada,Mississauga,Ontario,789 King St,L4W 5N2,42.9849,-79.3832,Residential Area
+e9c41569,Canada,Ottawa,Ontario,789 King St,P7B 6G2,42.9849,-81.2453,Near Public Park
+33bb17e7,Canada,Ottawa,Ontario,456 Queen St,L4W 5N2,43.2557,-75.6972,Industrial Zone
+5edfaa4f,Canada,Mississauga,Ontario,101 Bay St,P7B 6G2,43.2557,-81.2453,Industrial Zone
+8d91f8d1,Canada,Hamilton,Ontario,101 Bay St,L4W 5N2,42.9849,-79.3832,Residential Area
+2177d56e,Canada,Ottawa,Ontario,222 Bloor St,M5G 1X6,42.9849,-79.3832,Residential Area
+e9a61bd8,Canada,London,Ontario,123 Main St,P7B 6G2,43.6532,-79.6441,Near Public Park
+068a441d,Canada,London,Ontario,222 Bloor St,P7B 6G2,43.589,-79.8711,Residential Area
+940336d6,Canada,Ottawa,Ontario,789 King St,N6A 3K7,43.589,-79.6441,Industrial Zone
+cca2ed7c,Canada,Ottawa,Ontario,222 Bloor St,L4W 5N2,42.9849,-79.3832,Industrial Zone
+0478339a,Canada,Toronto,Ontario,789 King St,M5G 1X6,43.2557,-75.6972,Industrial Zone
+7691b466,Canada,Mississauga,Ontario,101 Bay St,L4W 5N2,43.589,-75.6972,Industrial Zone
+6344c77f,Canada,Toronto,Ontario,222 Bloor St,M5G 1X6,43.6532,-79.6441,Business District
+ce304918,Canada,Hamilton,Ontario,222 Bloor St,K1A 0B1,45.4215,-75.6972,Near Public Park
+eede8160,Canada,Toronto,Ontario,456 Queen St,K1A 0B1,43.589,-81.2453,Industrial Zone
+8e95b23a,Canada,Ottawa,Ontario,456 Queen St,L4W 5N2,43.589,-79.6441,Residential Area
+cf0d8fed,Canada,Toronto,Ontario,123 Main St,M5G 1X6,43.2557,-79.6441,Residential Area
+11168883,Canada,Toronto,Ontario,789 King St,P7B 6G2,45.4215,-81.2453,Shopping Plaza
+5aa7a656,Canada,Hamilton,Ontario,222 Bloor St,M5G 1X6,42.9849,-75.6972,Near Public Park
+16edb7de,Canada,Mississauga,Ontario,222 Bloor St,M5G 1X6,42.9849,-79.6441,Business District
+16aab67e,Canada,Ottawa,Ontario,456 Queen St,N6A 3K7,45.4215,-81.2453,Residential Area
+21fec0f7,Canada,Mississauga,Ontario,101 Bay St,K1A 0B1,43.2557,-75.6972,Near Public Park
+3dc0e437,Canada,Hamilton,Ontario,123 Main St,M5G 1X6,43.589,-79.3832,Near Public Park
+1d3140f1,Canada,Toronto,Ontario,789 King St,N6A 3K7,42.9849,-81.2453,Business District
+3be434bd,Canada,London,Ontario,222 Bloor St,N6A 3K7,43.6532,-75.6972,Industrial Zone
+c134e566,Canada,Toronto,Ontario,456 Queen St,P7B 6G2,43.6532,-75.6972,Shopping Plaza
+13d04acc,Canada,Ottawa,Ontario,222 Bloor St,N6A 3K7,43.589,-75.6972,Near Public Park
+08f5452a,Canada,Hamilton,Ontario,123 Main St,P7B 6G2,43.589,-75.6972,Business District
+0997b8fb,Canada,Mississauga,Ontario,456 Queen St,M5G 1X6,43.2557,-79.8711,Business District
+6446a6c7,Canada,London,Ontario,789 King St,K1A 0B1,42.9849,-79.3832,Shopping Plaza
+90f19f24,Canada,London,Ontario,101 Bay St,N6A 3K7,45.4215,-79.6441,Near Public Park
+769bfede,Canada,Mississauga,Ontario,222 Bloor St,N6A 3K7,43.2557,-79.3832,Shopping Plaza
+35e4300d,Canada,London,Ontario,123 Main St,P7B 6G2,42.9849,-79.6441,Near Public Park
+c393f77f,Canada,Ottawa,Ontario,456 Queen St,P7B 6G2,43.2557,-81.2453,Business District
+44031803,Canada,London,Ontario,222 Bloor St,L4W 5N2,43.2557,-75.6972,Near Public Park
+bf8e2aa9,Canada,Toronto,Ontario,101 Bay St,P7B 6G2,43.589,-79.6441,Business District
+3198244b,Canada,Mississauga,Ontario,101 Bay St,K1A 0B1,43.2557,-75.6972,Industrial Zone
+7696bc2c,Canada,London,Ontario,123 Main St,L4W 5N2,43.6532,-79.3832,Industrial Zone
+0c33703c,Canada,Mississauga,Ontario,789 King St,N6A 3K7,45.4215,-81.2453,Near Public Park
+d2a9d50f,Canada,London,Ontario,456 Queen St,M5G 1X6,42.9849,-75.6972,Industrial Zone
+967aec4d,Canada,Hamilton,Ontario,456 Queen St,K1A 0B1,43.2557,-75.6972,Business District
+041ee5d1,Canada,London,Ontario,123 Main St,K1A 0B1,45.4215,-81.2453,Business District
+f1dbb74c,Canada,Ottawa,Ontario,101 Bay St,M5G 1X6,42.9849,-81.2453,Near Public Park
+d81a31be,Canada,Toronto,Ontario,222 Bloor St,M5G 1X6,43.6532,-79.8711,Industrial Zone
+75cb3422,Canada,London,Ontario,789 King St,N6A 3K7,42.9849,-79.3832,Near Public Park
+8a5f6c6b,Canada,Ottawa,Ontario,101 Bay St,P7B 6G2,43.2557,-79.6441,Residential Area
+f52a494d,Canada,London,Ontario,101 Bay St,K1A 0B1,43.6532,-75.6972,Shopping Plaza
+f7be42e3,Canada,Hamilton,Ontario,456 Queen St,N6A 3K7,43.6532,-75.6972,Industrial Zone
+fd2cf65e,Canada,Hamilton,Ontario,456 Queen St,P7B 6G2,43.2557,-79.3832,Shopping Plaza
+1e5a2187,Canada,London,Ontario,456 Queen St,K1A 0B1,43.2557,-81.2453,Shopping Plaza
+0137944b,Canada,Mississauga,Ontario,123 Main St,M5G 1X6,42.9849,-79.3832,Industrial Zone
+6a08958a,Canada,London,Ontario,123 Main St,L4W 5N2,43.589,-79.8711,Business District
+cdde933f,Canada,Hamilton,Ontario,123 Main St,L4W 5N2,43.2557,-81.2453,Shopping Plaza
+e8e17380,Canada,Mississauga,Ontario,101 Bay St,P7B 6G2,45.4215,-79.6441,Shopping Plaza
+16ef4190,Canada,Ottawa,Ontario,123 Main St,K1A 0B1,43.2557,-79.6441,Business District
+a48eda59,Canada,Mississauga,Ontario,789 King St,M5G 1X6,43.2557,-79.3832,Near Public Park
+457cd5fe,Canada,Toronto,Ontario,123 Main St,P7B 6G2,42.9849,-81.2453,Business District
+72612852,Canada,Mississauga,Ontario,222 Bloor St,L4W 5N2,43.6532,-75.6972,Shopping Plaza
+eb6672a3,Canada,Hamilton,Ontario,222 Bloor St,M5G 1X6,43.2557,-75.6972,Near Public Park
+7b99486b,Canada,Hamilton,Ontario,789 King St,K1A 0B1,42.9849,-79.6441,Shopping Plaza
+fe57bdee,Canada,Toronto,Ontario,101 Bay St,K1A 0B1,42.9849,-79.6441,Residential Area
+de2a7e19,Canada,Hamilton,Ontario,222 Bloor St,L4W 5N2,45.4215,-79.8711,Industrial Zone
+565c2366,Canada,Mississauga,Ontario,101 Bay St,N6A 3K7,43.589,-79.6441,Shopping Plaza
+de752884,Canada,Mississauga,Ontario,789 King St,P7B 6G2,45.4215,-79.3832,Residential Area
+5444bec8,Canada,Toronto,Ontario,789 King St,P7B 6G2,43.6532,-79.8711,Industrial Zone
+4c03df68,Canada,London,Ontario,123 Main St,K1A 0B1,43.2557,-79.3832,Near Public Park
+fcbc4abe,Canada,London,Ontario,101 Bay St,N6A 3K7,43.2557,-79.8711,Residential Area
+6f5a0f7d,Canada,Mississauga,Ontario,222 Bloor St,P7B 6G2,42.9849,-79.3832,Shopping Plaza
+2e159427,Canada,Mississauga,Ontario,101 Bay St,M5G 1X6,43.589,-79.8711,Industrial Zone
+27dfcc6e,Canada,Mississauga,Ontario,222 Bloor St,P7B 6G2,43.589,-81.2453,Shopping Plaza
+f8e06483,Canada,Ottawa,Ontario,789 King St,N6A 3K7,43.2557,-81.2453,Near Public Park
+ead1077a,Canada,Ottawa,Ontario,222 Bloor St,N6A 3K7,45.4215,-75.6972,Near Public Park
+668c964f,Canada,London,Ontario,101 Bay St,M5G 1X6,43.589,-79.6441,Industrial Zone
+9cbe170a,Canada,London,Ontario,123 Main St,K1A 0B1,43.6532,-75.6972,Residential Area
+c7d02f8f,Canada,Hamilton,Ontario,456 Queen St,N6A 3K7,43.6532,-79.3832,Near Public Park
+6e50dcb4,Canada,Ottawa,Ontario,456 Queen St,P7B 6G2,43.589,-81.2453,Shopping Plaza
+d2b65b53,Canada,London,Ontario,101 Bay St,N6A 3K7,45.4215,-79.3832,Near Public Park
+0f1ab75f,Canada,Ottawa,Ontario,222 Bloor St,P7B 6G2,43.589,-75.6972,Residential Area
+df8b3624,Canada,Mississauga,Ontario,222 Bloor St,P7B 6G2,43.589,-75.6972,Residential Area
+b03f4bc3,Canada,Mississauga,Ontario,456 Queen St,M5G 1X6,43.589,-79.8711,Near Public Park
+64f43b39,Canada,Mississauga,Ontario,789 King St,M5G 1X6,45.4215,-79.6441,Industrial Zone
+9643917a,Canada,Hamilton,Ontario,123 Main St,M5G 1X6,43.2557,-75.6972,Business District
+55377ffe,Canada,Mississauga,Ontario,123 Main St,N6A 3K7,43.589,-79.6441,Near Public Park
+b604518f,Canada,Hamilton,Ontario,789 King St,M5G 1X6,43.6532,-79.3832,Residential Area
+99a6869e,Canada,Mississauga,Ontario,222 Bloor St,P7B 6G2,43.589,-79.6441,Industrial Zone
+430bfe5d,Canada,London,Ontario,456 Queen St,M5G 1X6,42.9849,-79.6441,Near Public Park
+4ad06b5b,Canada,London,Ontario,789 King St,K1A 0B1,45.4215,-81.2453,Shopping Plaza
+39108c61,Canada,Mississauga,Ontario,456 Queen St,M5G 1X6,42.9849,-79.8711,Residential Area
+72ac197f,Canada,Ottawa,Ontario,101 Bay St,P7B 6G2,43.6532,-81.2453,Residential Area
+69278bdc,Canada,London,Ontario,101 Bay St,N6A 3K7,45.4215,-75.6972,Shopping Plaza
+3391c4a2,Canada,Toronto,Ontario,101 Bay St,L4W 5N2,43.6532,-75.6972,Industrial Zone
+8dbc8d9e,Canada,Ottawa,Ontario,789 King St,P7B 6G2,45.4215,-75.6972,Near Public Park
+e62be316,Canada,Mississauga,Ontario,123 Main St,M5G 1X6,42.9849,-75.6972,Industrial Zone
+00ab6988,Canada,London,Ontario,789 King St,M5G 1X6,43.589,-75.6972,Shopping Plaza
+df423afe,Canada,Mississauga,Ontario,101 Bay St,M5G 1X6,45.4215,-75.6972,Industrial Zone
